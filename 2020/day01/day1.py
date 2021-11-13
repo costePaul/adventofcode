@@ -1,4 +1,4 @@
-text = open('./2020/day1/input.txt')
+text = open('./2020/day01/input.txt')
 numbers = [int(line) for line in text]
 
 def find_pair(set,target):

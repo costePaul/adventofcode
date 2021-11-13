@@ -1,4 +1,4 @@
-text = open('./2020/day2/input.txt')
+text = open('./2020/day02/input.txt')
 passwords = [line for line in text]
 
 def read_pwd(pwd):
