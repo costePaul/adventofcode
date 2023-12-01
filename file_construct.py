@@ -1,6 +1,6 @@
 import os
 
-year = 2020
+year = 2023
 
 # create the directories with the empty dayX.py and input.txt files 
 for i in range(25):
